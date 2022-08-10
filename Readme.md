@@ -5,5 +5,5 @@
 <h2> Using CNN</h2>
 <hr>
 
-<h3> developed for Minor Project</h3>
+<h3> Developed for Minor Project of our Bachelors in Copmuter Engineering.</h3>
 <hr>
